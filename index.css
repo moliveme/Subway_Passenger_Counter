@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(117, 67, 48);
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+
+h1 {
+    margin-top: 80px;
+}
+
+#increment-btn {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px 10px;
+    background-color: antiquewhite;
+    width: 400px;
+    font-size: xx-large;
+    border-width: 0px;
+}
+
+#increment-btn:hover {
+    background-color: rgb(164, 111, 111);
+    border-color: rgb(150, 113, 113);
+    border-width: 5px;
+}
